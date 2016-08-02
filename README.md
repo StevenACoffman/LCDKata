@@ -53,11 +53,3 @@ $ gradle test
 
 BUILD SUCCESSFUL
 ```
-
-## Submit
-
-When everything is passing, you can submit your code with the following command:
-
-```
-$ exercism submit src/main/java/Hiker.java
-```
